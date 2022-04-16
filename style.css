@@ -1,0 +1,126 @@
+body{
+    background-image:linear-gradient(113deg,#ecc884 11%,#d48baa 80%);
+}
+.container{
+    display:flex;
+   margin: 5% 15%;
+}
+.box1{
+    /* background-color: #ffa500;
+    height: 200px;
+    width: 155%;
+    padding: 150px;
+    margin-left: 45%; */
+    border: #ecc884;
+    background-color: #ecc884;
+    width: 300px;
+    height: 500px;
+    
+}
+.box1 h2{
+    text-decoration:italic;
+}
+.box2{
+    /* background-color: #f0f8ff;
+    height: 500px;
+    width: 30%;
+    padding: 30px;
+    margin-left: 49.0%;
+    margin-bottom: 200%; */
+    border: #f0f0f0;
+    background-color: #f0f0f0;
+    width: 400px;
+}
+.box2 h5{
+    margin-left: 110px;
+    
+}
+.box2 h3{
+    margin-left:50px ;
+}
+.box2 h4{
+   margin-left: 50px; 
+}
+.fa {
+    padding: 10px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+}
+.button{
+    background: #55ACEE;
+    color: white;
+    margin-top: 5px;
+
+ }
+.fa-google {
+    color: white;
+
+}
+.line{
+    display: flex;
+    stroke: width 1px;
+}
+.line-1 {
+    margin-left:8px;
+    stroke:1px;
+}
+.line-2{
+    margin-right:150px;
+}
+.label{
+    margin-left:50px ;
+    font-weight:bold ;
+}
+.input{
+    margin-left: 50px;
+    width: 30%;
+    background-color: gray;
+    border: none;
+    border-radius: 5px;
+    padding:5px;
+}
+.email{
+    margin-left: 50px;
+}
+.email label{
+ font-weight:bold;
+}
+.email input {
+    width: 40%;
+    background-color: gray;
+    border: none;
+    padding:5px ;
+    border-radius: 5px;
+}
+.password{
+    margin-right:50px;
+}
+.password label{
+    font-weight:bold;
+}
+.password input{
+    width: 40%;
+    background-color: gray;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+}
+.check{
+    margin-right:50% ;
+}
+.Create{
+    background-color: palevioletred;
+    border-radius: 12px;
+    color: white;
+    padding: 10px 35px;
+    text-align: center;
+    display:inline-block;
+    font-size:16px ;
+    margin-top: 5%;
+    margin-left: 20%;
+
+}
+
+
